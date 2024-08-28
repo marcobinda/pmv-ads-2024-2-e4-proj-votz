@@ -4,15 +4,11 @@
 
 ## Diagrama de Classes
 
-![Arquitetura da Solução](img/votz_diagramaclasses.png)
+![Diagrama de Classes](img/votz_diagramaclasses.png)
 
 ## Modelo ER
 
-O Modelo ER representa através de um diagrama como as entidades (coisas, objetos) se relacionam entre si na aplicação interativa.
-
-As referências abaixo irão auxiliá-lo na geração do artefato “Modelo ER”.
-
-> - [Como fazer um diagrama entidade relacionamento | Lucidchart](https://www.lucidchart.com/pages/pt/como-fazer-um-diagrama-entidade-relacionamento)
+![Modelo Entidade-Relacionamento](img/votz_modeloER.png)
 
 ## Esquema Relacional
 
