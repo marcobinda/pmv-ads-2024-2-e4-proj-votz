@@ -1,29 +1,36 @@
-# TÍTULO DO PROJETO
+<div align="center">
 
-`CURSO`
+![logo](https://github.com/user-attachments/assets/05e50ede-1569-498b-abc9-a3f0a46de040)
 
-`DISCIPLINA`
+</div>
 
-`SEMESTRE`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+`ANÁLISE E DESENVOLVIMENTO DE SISTEMAS`
 
-## Integrantes
+`Desenvolvimento de uma Aplicação Distribuída`
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+`4º SEMESTRE`
 
-## Orientador
+O votZ é um sistema de votação online focado em oferecer uma solução prática e segura para diferentes contextos, como eleições em condomínios e organizações. Com uma interface dinâmica e configurável, ele permite que os administradores personalizem e gerenciem votações de forma eficaz.
 
-* Nome completo do professor 1
+## 🤓 Integrantes
 
-## Instruções de utilização
+* Bianca Moreira
+* Douglas Henrique Ferreira
+* Gabriel Russo
+* Irene Aparecida Couto Ferraz
+* Marco Binda
+* Talita Fernandes Silva
 
-Assim que a primeira versão do sistema estiver disponível, deverá complementar com as instruções de utilização. Descreva como instalar eventuais dependências e como executar a aplicação.
+## 👨‍🏫 Orientador
 
-# Documentação
+* Leonardo Vilela Cardoso
+
+## 💡 Instruções de utilização
+
+Assim que a primeira versão do sistema estiver disponível, as instruções de utilização serão listadas. 
+
+## 📚 Documentação
 
 <ol>
 <li><a href="docs/01-Documentação de Contexto.md"> Documentação de Contexto</a></li>
@@ -41,10 +48,39 @@ Assim que a primeira versão do sistema estiver disponível, deverá complementa
 <li><a href="docs/13-Referências.md"> Referências</a></li>
 </ol>
 
-# Código
+## 🖥️ Código
 
 <li><a href="src/README.md"> Código Fonte</a></li>
 
-# Apresentação
+## 📝 Requisitos do Sistema
+
+* Repositório: GitHub.
+
+* Desenvolvimento: JavaScript, React, React Native.
+
+* IDE: Visual Studio Code.
+
+* Backend: Node.js.
+
+* Banco de dados: MongoDB.
+
+* Hospedagem: Azure.
+
+* Prototipagem: Figma.
+
+* Comunicação: Whatsapp, Discord e Teams.
+
+* Gestão de Projeto: Github Projects.
+
+* Diagramas: Lucidchart.
+
+## 📹 Apresentação
 
 <li><a href="presentation/README.md"> Apresentação da solução</a></li>
+
+### Conjunto de Slides
+
+### Vídeo
+
+
+
