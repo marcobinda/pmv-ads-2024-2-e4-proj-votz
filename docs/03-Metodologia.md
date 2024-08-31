@@ -4,11 +4,11 @@
 Para o desenvolvimento das etapas do projeto votZ, foram adotadas diversas ferramentas cruciais na sua execução e implementação, são elas:
 
 Wireframe
-- Figma. 
+- Canva. 
 
 Diagramas e fluxos
 - Lucidchart.
-- 
+  
 Ambiente de trabalho
 
 - Discord: reuniões semanais da equipe;
@@ -25,25 +25,23 @@ Versionamento
 - Git.
 
 
-
 ## Relação de Ambientes de Trabalho
 
 Os artefatos do projeto são desenvolvidos utilizando uma variedade de plataformas, cada uma com funções e responsabilidades específicas. A seguir, disponibilizamos uma tabela que detalha os diferentes ambientes do projeto, a plataforma empregada em cada um deles e os respectivos links de acesso. Essas informações foram organizadas com o intuito de simplificar a compreensão e o acesso aos diversos ambientes que compõem o projeto.
 
 | Ambiente | Plataforma | Link de Acesso |
 |----------|------------|----------------|
-| Testes | A definir | [-](https://) |
-| Wireframe | Figma | [Acessar](https://) |
-| Banco de Dados | A definir | [-](https://) |
-| Documentação | GitHub | [Acessar](https://) |
-| Repositório código fonte| GitHub | [Acessar](https://) |
-| Gerenciamento do projeto | GitHub Projects| [Acessar](https) |
-
+| Testes | A definir | [Aguardar ser criado para acessar](https://) |
+| Wireframe | Canva | [Acessar](https://www.canva.com/design/DAGOzcl5nCY/yE2Fe0qB-48k6zZn-iEtTg/view?utm_content=DAGOzcl5nCY&utm_campaign=designshare&utm_medium=link&utm_source=editor) |
+| Banco de Dados | MongoDB | [Aguardar ser criado para acessar](https://) |
+| Documentação | GitHub | [Acessar-Temporário](https://github.com/marcobinda/pmv-ads-2024-2-e4-proj-votz) |
+| Repositório código fonte| GitHub | [Acessar-Temporário](https://github.com/marcobinda/pmv-ads-2024-2-e4-proj-votz/blob/main/src/README.md) |
+| Gerenciamento do projeto | GitHub Projects| [Aguardar repositório PUC para acessar](https) |
 
 
 ## Controle de Versão
 
-A ferramenta de controle de versão adotada no projeto foi o [Git](https://git-scm.com/), sendo que o [Github](https://) foi utilizado para hospedagem do repositório.
+A ferramenta de controle de versão adotada no projeto foi o [Git](https://git-scm.com/), sendo que o [Github(Aguardar liberação da PUC para acessar)](https://) foi utilizado para hospedagem do repositório.
 
 O projeto segue a seguinte convenção para o nome de branches:
 
@@ -80,7 +78,7 @@ O desenvolvimento do projeto votZ está sendo realizado com o uso do framework S
 
 Figura 1 - kanban
 
-![kanban](https://)
+![Aguardar liberação repositório PUC para acessar](https://)
 
 </div>
 
