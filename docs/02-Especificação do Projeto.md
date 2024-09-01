@@ -166,7 +166,7 @@ As referências abaixo irão auxiliá-lo na geração do artefato “Diagrama de
 > - [Astah](https://astah.net/)
 > - [Diagrams](https://app.diagrams.net/)
 
-![Diagrama de caso de uso](img/Diagrama de caso de uso VotZ.png)
+![Diagrama de caso de uso](docs/img/Diagrama.png)
 
 # Matriz de Rastreabilidade
 
