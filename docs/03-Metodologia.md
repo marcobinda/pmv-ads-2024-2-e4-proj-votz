@@ -88,7 +88,7 @@ As ferramentas empregadas no projeto são:
 
 - Editor de código: Visual Studio;
 - Ferramentas de comunicação: Discord, Whatsapp e Teams;
-- Ferramentas de desenho de tela: Figma.
+- Ferramentas de desenho de tela: Canva.
 
 
 As ferramentas de edição de código e de comunicação foram selecionadas com base em sua facilidade de uso e familiaridade entre todos os membros da equipe. Para a criação dos diagramas, escolhemos a ferramenta que melhor se ajustou ao contexto do negócio que está sendo desenvolvido.
