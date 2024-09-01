@@ -36,6 +36,9 @@ Assim que a primeira versão do sistema estiver disponível, as instruções de 
 <li><a href="docs/01-Documentação de Contexto.md"> Documentação de Contexto</a></li>
 <li><a href="docs/02-Especificação do Projeto.md"> Especificação do Projeto</a></li>
 <li><a href="docs/03-Metodologia.md"> Metodologia</a></li>
+<ol>
+  3.1<a href="docs/03.01-Retrato Time x Sprint.md"> Retrato Time x Sprint</a>
+</ol>
 <li><a href="docs/04-Projeto de Interface.md"> Projeto de Interface</a></li>
 <li><a href="docs/05-Arquitetura da Solução.md"> Arquitetura da Solução</a></li>
 <li><a href="docs/06-Template Padrão da Aplicação.md"> Template Padrão da Aplicação</a></li>
@@ -66,7 +69,7 @@ Assim que a primeira versão do sistema estiver disponível, as instruções de 
 
 * Hospedagem: Azure.
 
-* Prototipagem: Figma.
+* Prototipagem: Canva.
 
 * Comunicação: Whatsapp, Discord e Teams.
 
