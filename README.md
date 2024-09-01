@@ -69,7 +69,7 @@ Assim que a primeira versão do sistema estiver disponível, as instruções de 
 
 * Hospedagem: Azure.
 
-* Prototipagem: Figma.
+* Prototipagem: Canva.
 
 * Comunicação: Whatsapp, Discord e Teams.
 
