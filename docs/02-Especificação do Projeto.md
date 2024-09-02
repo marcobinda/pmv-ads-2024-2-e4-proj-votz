@@ -118,7 +118,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 | RNF-007 | As operações de manutenção e atualizações do sistema devem ser realizadas fora dos períodos eleitorais para minimizar interrupções aos usuários. | MÉDIA      |
 
 
-/*Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
+<!--Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
 
 - [Requisitos Funcionais
  (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
@@ -131,7 +131,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
   dispositivos iOS e Android).
 Lembre-se que cada requisito deve corresponder à uma e somente uma
 característica alvo da sua solução. Além disso, certifique-se de que
-todos os aspectos capturados nas Histórias de Usuário foram cobertos.*/
+todos os aspectos capturados nas Histórias de Usuário foram cobertos.-->
 
 
 
