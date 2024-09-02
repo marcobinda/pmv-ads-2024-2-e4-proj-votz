@@ -78,42 +78,12 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 ### Requisitos Funcionais
 
 |ID    | Descrição do Requisito  | Prioridade |
-|------|-----------------------------------------|----|
-| RF-01 | Permitir o cadastro de editais da eleição e outros documentos associados ao processo eleitoral.                  | ALTA       |
-| RF-02 | Permitir o cadastro e gestão de diferentes perfis dos participantes do processo eleitoral (eleitor, candidato e auditor). | ALTA       |
-| RF-03 | Permitir agendar o início e o término da eleição.                                                                 | ALTA       |
-| RF-04 | Permitir a configuração de voto obrigatório ou opcional para eleitores.                                            | ALTA       |
-| RF-05 | Permitir o cadastro manual de eleitores.                                                                           | ALTA       |
-| RF-06 | Permitir o cadastro automatizado de eleitores por meio da importação de planilhas.                                | MÉDIA      |
-| RF-07 | Permitir a votação múltipla pelo mesmo usuário.                                                                   | MÉDIA      |
-| RF-08 | Permitir a votação múltipla em mais de um candidato.                                                               | ALTA       |
-| RF-09 | Permitir estilização do layout da tela de votação.                                                                 | MÉDIA      |
-| RF-10 | Enviar comprovante de votação para o eleitor.                                                                      | ALTA       |
-| RF-11 | Enviar aviso de encerramento da eleição e apuração do resultado.                                                    | ALTA       |
-| RF-12 | Exibir gráfico de apuração e relatórios de votação em um dashboard.                                                | ALTA       |
-| RF-13 | Permitir a exportação de relatórios de votação.                                                                    | MÉDIA      |
-| RF-14 | Permitir o cadastro automatizado de eleitores via API.                                                             | BAIXA      |
-| RF-15 | Permitir a opção de voto "negativo".                                                                              | BAIXA      |
-| RF-16 | Permitir votação em turnos ou eliminatórias.                                                                       | BAIXA      |
-| RF-17 | Permitir a configuração de peso por qualidade do eleitor (p.ex., voto qualificado).                                | BAIXA      |
-| RF-18 | Exibir resultado em tempo real no dashboard.                                                                       | BAIXA      |
-| RF-19 | Permitir o cadastro de usuário para possibilitar relatórios segmentados.                                           | BAIXA      |
-| RF-20 | Implementar validação do processo eleitoral por meio de blockchain.                                                | BAIXA      |
-| RF-21 | Documentar a API para auditoria e validação.                                                                       | BAIXA      |
-| RF-22 | Permitir a opção de voto branco/nulo.                                                                              | MÉDIA      |
+
 
 
 ### Requisitos não Funcionais
 
 |ID     | Descrição do Requisito  |Prioridade |
-|-------|-------------------------|----|
-| RNF-001 | Assegurar uma alta disponibilidade do sistema de votação, minimizando o tempo de inatividade e garantindo que o processo eleitoral ocorra conforme programado, sem interrupções ou falhas de serviço. | ALTA    |
-| RNF-002 | O sistema deve ser compatível com os principais navegadores da web (Chrome, Firefox, Safari, Edge).                            | ALTA       |
-| RNF-003 | O sistema deve ser responsivo, proporcionando uma experiência de usuário consistente em diferentes dispositivos, como desktops, tablets e smartphones. | ALTA       |
-| RNF-004 | A interface de aplicação deve ser fácil de usar, com layouts claros e navegação lógica.                                         | MÉDIA      |
-| RNF-005 | O sistema deve utilizar tecnologias, como React, Node.js, PostgreSQL, JavaScript.                                               | ALTA       |
-| RNF-006 | O sistema poderá utilizar API Externa para auxílio no banco de dados.                                                             | MÉDIA      |
-| RNF-007 | As operações de manutenção e atualizações do sistema devem ser realizadas fora dos períodos eleitorais para minimizar interrupções aos usuários. | MÉDIA      |
 
 
 
@@ -137,14 +107,6 @@ todos os aspectos capturados nas Histórias de Usuário foram cobertos.
 O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 |ID| Restrição                                             |
-|--|-------------------------------------------------------|
-| R-001 | O sistema não deve rodar em dispositivos iOS, sendo compatível apenas com dispositivos Android e navegadores web. |
-| R-002 | O sistema deve ser concluído e entregue até o final do semestre acadêmico.                               |
-| R-003 | A equipe não pode subcontratar o desenvolvimento de nenhuma parte do projeto.                             |
-| R-004 | A aplicação deve ser desenvolvida de forma que possa ser hospedada em servidores gratuitos ou de baixo custo, para fins de demonstração acadêmica. |
-| R-005 | O tempo de desenvolvimento deve ser distribuído uniformemente entre todos os membros da equipe, sem sobrecarregar um único desenvolvedor. |
-| R-006 | O sistema não deve incluir suporte a idiomas adicionais.                                                    |
-
 
 
 Enumere as restrições à sua solução. Lembre-se de que as restrições geralmente limitam a solução candidata.
