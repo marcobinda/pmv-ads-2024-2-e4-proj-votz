@@ -77,7 +77,8 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 ### Requisitos Funcionais
 
-|ID    | Descrição do Requisito  | Prioridade |
+| ID    | Descrição do Requisito                                                                                             | Prioridade |
+|-------|-------------------------------------------------------------------------------------------------------------------|------------|
 | RF-01 | Permitir o cadastro de editais da eleição e outros documentos associados ao processo eleitoral.                  | ALTA       |
 | RF-02 | Permitir o cadastro e gestão de diferentes perfis dos participantes do processo eleitoral (eleitor, candidato e auditor). | ALTA       |
 | RF-03 | Permitir agendar o início e o término da eleição.                                                                 | ALTA       |
@@ -103,16 +104,19 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 
 
+
 ### Requisitos não Funcionais
 
-|ID     | Descrição do Requisito  |Prioridade |
-| RNF-001 | Assegurar uma alta disponibilidade do sistema de votação, minimizando o tempo de inatividade e garantindo que o processo eleitoral ocorra conforme programado, sem interrupções ou falhas de serviço. | ALTA    |
+| ID    | Descrição do Requisito não funcional                                                                                                              | Prioridade |
+|-------|-----------------------------------------------------------------------------------------------------------------------------------|------------|
+| RNF-001 | Assegurar uma alta disponibilidade do sistema de votação, minimizando o tempo de inatividade e garantindo que o processo eleitoral ocorra conforme programado, sem interrupções ou falhas de serviço. | ALTA       |
 | RNF-002 | O sistema deve ser compatível com os principais navegadores da web (Chrome, Firefox, Safari, Edge).                            | ALTA       |
 | RNF-003 | O sistema deve ser responsivo, proporcionando uma experiência de usuário consistente em diferentes dispositivos, como desktops, tablets e smartphones. | ALTA       |
 | RNF-004 | A interface de aplicação deve ser fácil de usar, com layouts claros e navegação lógica.                                         | MÉDIA      |
 | RNF-005 | O sistema deve utilizar tecnologias, como React, Node.js, PostgreSQL, JavaScript.                                               | ALTA       |
 | RNF-006 | O sistema poderá utilizar API Externa para auxílio no banco de dados.                                                             | MÉDIA      |
 | RNF-007 | As operações de manutenção e atualizações do sistema devem ser realizadas fora dos períodos eleitorais para minimizar interrupções aos usuários. | MÉDIA      |
+
 
 /*Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
 
